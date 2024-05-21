@@ -11,4 +11,4 @@ Este projeto é um **relógio digital simples** feito com HTML, CSS e JavaScript
 ## Pré-requisitos
 Para executar este projeto, você precisará de um navegador da web moderno (como Google Chrome, Firefox, Safari, etc.) com suporte para HTML5, CSS3 e JavaScript.
 
-## Estrutura do Projeto
+
